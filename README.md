@@ -1,5 +1,4 @@
-[&loz;](#go-pitch)
-## Golang: a humble sales pitch to the holdouts
+## <a name="golang-pitch"></a> Golang: a humble sales pitch to the holdouts
 March 5, 2017
 SCaLE Southern Ca Linux Expo 15x
 
