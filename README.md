@@ -1,5 +1,5 @@
 ## <a name="golang-pitch"></a> Golang: a humble sales pitch to the holdouts
-March 5, 2017
+March 5, 2017  
 SCaLE Southern Ca Linux Expo 15x
 
 - Go is opinionated (trigger word!) in ways that remove needless distraction.
